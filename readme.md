@@ -3,6 +3,7 @@ using RabbitMQ, Firebase, MySQL and Node
 the Express is for simulate Rabbit publish situation
 
 Setup Todo List:
+
 1.replace the parameter in .env
 
 Rabbit: set the host string

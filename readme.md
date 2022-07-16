@@ -12,6 +12,7 @@ MySQL: set the host string, user, password, and database string
 Test Guide
 use 
 > node index.js
+
 to start the app
 
 the express use the localhost:3000 to listen the test event
